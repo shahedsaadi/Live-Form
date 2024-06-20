@@ -7,7 +7,8 @@ The website allows users to input their first name, last name, and email. As use
 - React.js.
 - useState React Hook.
 
-# To Try It: https://3w3pp.csb.app/
+# To Try It: 
+https://3w3pp.csb.app/
 
 # To Run The Project(locally):
 - Clone the repository (git clone https://github.com/shahedsaadi/Live-Form.git).
